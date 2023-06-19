@@ -1214,10 +1214,8 @@ footer {
     -webkit-transform: scaleY(1);
             transform: scaleY(1);
   }
-  .portfolio-item__link:hover .portfolio-item__theme {
-    color: var(--main-bg);
-  }
-  .portfolio-item__link:hover .portfolio-item__title {
+  
+  .portfolio-item__link:hover .portfolio-item__titleBlack{
     color: var(--main-bg);
   }
 }
